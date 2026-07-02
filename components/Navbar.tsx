@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -29,7 +30,9 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center">
           
-          <Link href="/" className="flex-shrink-0 flex items-center gap-2 group">
+          <Link href="/" className="flex-shrink-0 flex items-center gap-3 group">
+            {/* Note: Ensure you add 'logo.png' to your public folder */}
+            <Image src="/logo.png" alt="Bamoro Life Panda" width={36} height={36} className="object-contain transition-transform duration-300 group-hover:scale-110" />
             <span className="font-serif text-2xl font-bold text-forest tracking-widest transition-transform duration-300 group-hover:scale-105">
               BAMORO<span className="text-bamboo">LIFE</span>
             </span>
@@ -47,7 +50,6 @@ export default function Navbar() {
               </Link>
             ))}
             
-            {/* Join Our Family - Distributor Form Link */}
             <a 
               href="#" 
               target="_blank" 
