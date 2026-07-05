@@ -165,7 +165,7 @@ export default function Home() {
 
   {/* Flipkart Link (Still needs your actual URL in the href) */}
   <a 
-    href="#" 
+    href="https://dl.flipkart.com/dl/bamorolife-reusable-kitchen-towel-20-sheets-dry-bamboo-cleaning-cloth/p/itm1c81ef09bb17a?pid=CLCHNUDFDKKWPNUP&lid=LSTCLCHNUDFDKKWPNUPVUTWFZ&marketplace=FLIPKART&_refId=&_appId=CL" 
     target="_blank" 
     rel="noopener noreferrer" 
     className="hover:scale-110 transition-transform"
@@ -205,7 +205,7 @@ export default function Home() {
                 <div className="flex flex-wrap items-center gap-5 mt-2">
                   <span className="font-bold text-forest uppercase text-sm tracking-widest mr-2">Buy On:</span>
                   <a href="https://www.amazon.in/Bamorolife-Biodegradable-Eco-Friendly-Absorbent-Disposable/dp/B0H36YD4BM/ref=sr_1_4?crid=2UX1HFSN7F77A&dib=eyJ2IjoiMSJ9.1rzjee9RCkf9Eo960CR7InwWcxLAcXejxv4274swYlhEnVgQiJc-7SzcfV0J4T3P0wtp_uOgamSWjN4cj1D3h2MG8MWLwhzgqDz85PfcKxsPCVXJqxwlTEVMm1PtuOB3LWKN9pha0h4xEwse6PLqlQ.YFQvRBvySCopBilvkCXpnJPq_BzG4NwdIusjKXdfAcA&dib_tag=se&keywords=bamorolife&qid=1780240629&sprefix=%2Caps%2C361&sr=8-4"  target="_blank" className="hover:scale-110 transition-transform"><Image src="/amazon.png" alt="Amazon" width={75} height={25} className="object-contain" /></a>
-                  <a href="#" target="_blank" className="hover:scale-110 transition-transform"><Image src="/flipkart.png" alt="Flipkart" width={75} height={25} className="object-contain" /></a>
+                  <a href="https://www.shopsy.in/bamorolife-bamboo-facial-tissue-paper/p/itmf86c3c1eea42b?pid=FNOHZ4Y4UFKFJMFW" target="_blank" className="hover:scale-110 transition-transform"><Image src="/flipkart.png" alt="Flipkart" width={75} height={25} className="object-contain" /></a>
                   <a href="https://www.meesho.com/search?q=bamorolife&searchType=manual&searchIdentifier=text_search"  target="_blank" className="hover:scale-110 transition-transform"><Image src="/meesho.png" alt="Meesho" width={75} height={25} className="object-contain" /></a>
                 </div>
               </motion.div>
@@ -230,7 +230,7 @@ export default function Home() {
                 <div className="flex flex-wrap items-center gap-5 mt-2">
                   <span className="font-bold text-forest uppercase text-sm tracking-widest mr-2">Buy On:</span>
                   <a href="https://www.amazon.in/Bamorolife-Biodegradable-Eco-Friendly-Absorbent-Disposable/dp/B0H36YD4BM/ref=sr_1_4?crid=2UX1HFSN7F77A&dib=eyJ2IjoiMSJ9.1rzjee9RCkf9Eo960CR7InwWcxLAcXejxv4274swYlhEnVgQiJc-7SzcfV0J4T3P0wtp_uOgamSWjN4cj1D3h2MG8MWLwhzgqDz85PfcKxsPCVXJqxwlTEVMm1PtuOB3LWKN9pha0h4xEwse6PLqlQ.YFQvRBvySCopBilvkCXpnJPq_BzG4NwdIusjKXdfAcA&dib_tag=se&keywords=bamorolife&qid=1780240629&sprefix=%2Caps%2C361&sr=8-4"  target="_blank" className="hover:scale-110 transition-transform"><Image src="/amazon.png" alt="Amazon" width={75} height={25} className="object-contain" /></a>
-                  <a href="#" target="_blank" className="hover:scale-110 transition-transform"><Image src="/flipkart.png" alt="Flipkart" width={75} height={25} className="object-contain" /></a>
+                  <a href="https://www.flipkart.com/bamorolife-pack-2-100-pulls-premium-bamboo-tissue-brown-paper-napkins/p/itm4c4dd1d263a87?pid=NAPHNVR6XYMJFYJA" target="_blank" className="hover:scale-110 transition-transform"><Image src="/flipkart.png" alt="Flipkart" width={75} height={25} className="object-contain" /></a>
                   <a href="https://www.meesho.com/search?q=bamorolife&searchType=manual&searchIdentifier=text_search"  target="_blank" className="hover:scale-110 transition-transform"><Image src="/meesho.png" alt="Meesho" width={75} height={25} className="object-contain" /></a>
                 </div>
               </motion.div>
