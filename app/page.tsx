@@ -291,10 +291,10 @@ export default function Home() {
       <section className="py-12 bg-cream border-t border-forest/10">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h4 className="font-bold uppercase tracking-widest text-sm text-forest/50 mb-8">Available securely on your favorite platform</h4>
-          <div className="flex flex-wrap justify-center items-center gap-12 md:gap-24 opacity-70 grayscale hover:grayscale-0 transition-all duration-500">
+          <div className="flex flex-wrap justify-center items-center gap-12 md:gap-24 transition-all duration-500">
             <a href="https://www.amazon.in/Bamorolife-Biodegradable-Eco-Friendly-Absorbent-Disposable/dp/B0H36YD4BM/ref=sr_1_4?crid=2UX1HFSN7F77A&dib=eyJ2IjoiMSJ9.1rzjee9RCkf9Eo960CR7InwWcxLAcXejxv4274swYlhEnVgQiJc-7SzcfV0J4T3P0wtp_uOgamSWjN4cj1D3h2MG8MWLwhzgqDz85PfcKxsPCVXJqxwlTEVMm1PtuOB3LWKN9pha0h4xEwse6PLqlQ.YFQvRBvySCopBilvkCXpnJPq_BzG4NwdIusjKXdfAcA&dib_tag=se&keywords=bamorolife&qid=1780240629&sprefix=%2Caps%2C361&sr=8-4" target="_blank" className="hover:scale-110 transition-transform"><Image src="/amazon.png" alt="Amazon" width={120} height={40} className="object-contain" /></a>
             <a href="#" target="_blank" className="hover:scale-110 transition-transform"><Image src="/flipkart.png" alt="Flipkart" width={120} height={40} className="object-contain" /></a>
-            <a href="https://www.meesho.com/search?q=bamorolife&searchType=manual&searchIdentifier=text_search"  target="_blank" className="hover:scale-110 transition-transform"><Image src="/meesho.png" alt="Meesho" width={120} height={40} className="object-contain" /></a>
+            <a href="https://www.meesho.com/search?q=bamorolife&searchType=manual&searchIdentifier=text_search"  target="_blank" className="hover:scale-110 transition-transform"><Image src="/meesho.png" alt="Meesho" width={96} height={32} className="object-contain" /></a>
           </div>
         </div>
       </section>
