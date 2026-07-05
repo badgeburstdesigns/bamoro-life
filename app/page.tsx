@@ -56,7 +56,7 @@ export default function Home() {
             transition={{ duration: 0.8 }}
             className="font-serif text-5xl md:text-7xl font-bold text-forest mb-4 md:mb-6 tracking-tight drop-shadow-[0_0_15px_rgba(250,249,246,0.8)]"
           >
-            Welcome to Bamoro Life
+            Welcome to BamoroLife
           </motion.h1>
           <motion.p 
             initial={{ opacity: 0, y: 20 }}
