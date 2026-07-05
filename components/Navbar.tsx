@@ -51,7 +51,7 @@ export default function Navbar() {
             ))}
             
             <a 
-              href="#" 
+              href="https://docs.google.com/forms/d/1xrvljHxzNPdCH47R5kw0sGXkdHerPuHifOjxY9nbAnc/edit" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-bamboo text-forest px-6 py-2.5 rounded-full font-bold text-sm hover:bg-forest hover:text-cream transition-colors duration-300 shadow-md"
